@@ -17,5 +17,5 @@ This is a nice content slider using HTML and jQuery.
 
 ## Live Demo
 
-You can see the live demo [HERE]()
+You can see the live demo [HERE](http://edgardopinto-escalierscoffe.github.io/jQuery-Content-Slider/)
 
